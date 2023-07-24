@@ -5,7 +5,7 @@ You are working for a new-age insurance company and employ mutiple outreach plan
 subscribe to the insurance.
 
 Data:
-The historical sales data is available as a train.csv file or click the below link,
+The historical sales data is available as a train.csv file or click the link,
 https://drive.google.com/file/d/1BJ_Q8Q-kDRisAQyLltBQggeb0QmdWGZy/view
 
 Features:
