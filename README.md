@@ -25,3 +25,11 @@ Output variable (desired target):
 
 Minimum Requirements:
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the conversion rate. AUROC must be used as a metric to evaluate the performance of the models.
+
+From the above problem statement;
+
+![Capture](https://github.com/sowbh/customer-conversion-prediction/assets/95527211/2137f862-af36-4bf7-b6b0-63614a0d80e6)
+
+
+We can conclude that,  XG-Boost classifier gives the highest value for F1_Score.
+
